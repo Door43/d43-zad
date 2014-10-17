@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zad:home|Door43 (zad)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-zad|d43-zad repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-zad/archive/master.zip|d43-zad.zip]]
+
+**Recent Changes**
+{{changes>ns = zad}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/zad|Ethnologue data]]
+
